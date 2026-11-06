@@ -1,0 +1,1 @@
+Add LangGraph agents after deterministic data, strategy and risk tests exist. Agents may interpret evidence and challenge setups; they must not be authoritative calculators or receive broker execution capabilities.
