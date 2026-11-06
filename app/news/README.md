@@ -1,0 +1,1 @@
+News analysis is enabled by configuration, but a provider must be selected and implemented. Preserve publisher, event timestamp, retrieval timestamp, region/currency relevance and stale status. Never fabricate headlines. Unavailable or stale news must be reported as unavailable and trigger conservative policy.
